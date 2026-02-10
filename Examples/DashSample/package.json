@@ -5,7 +5,7 @@
   "license": "BSD-3-Clause",
   "main": "Libraries/react-vr.js",
   "dependencies": {
-    "dashjs": "~2.4.1"
+    "dashjs": "~2.9.3"
   },
   "devDependencies": {
     "tar-fs": "~1.15.2"
